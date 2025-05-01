@@ -68,7 +68,7 @@ multiple-choice questions and receive their scores at the end.
 
 To run this project locally, follow these steps:
 
----
+
 
 ### 1️⃣ Clone the Repository
 
@@ -76,7 +76,7 @@ To run this project locally, follow these steps:
 git clone https://github.com/Athira-vk/Quiz-App-.git
 ```
 
----
+
 
 ### 2️⃣ Install Project Dependencies
 
@@ -87,7 +87,7 @@ git clone https://github.com/Athira-vk/Quiz-App-.git
 npm install
 ```
 
----
+
 
 ### 3️  Install Backend Dependencies (json-server)
 
@@ -101,7 +101,7 @@ In your `package.json`, ensure the following script is included:
 ```
 This will start the mock API on http://localhost:8000/questions and serve data from the data/questions.json file.
 
----
+
 
 
 ### 4️⃣  Start the JSON Server
@@ -112,7 +112,7 @@ Run the following command to start the JSON server, which will provide the mock 
 ```bash
 npm run server
 ```
----
+
 
 ### 5️⃣ Start the React App
 
@@ -120,7 +120,7 @@ npm run server
 npm start
 ```
 
----
+
 
 ### ✅ Application Running
 
@@ -130,7 +130,7 @@ npm start
 
 
 
----
+
 
     
 ## Screenshots
